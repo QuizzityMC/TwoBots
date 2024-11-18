@@ -9,3 +9,5 @@ Courted is a court case bot for discord with systems to sue people, assign judge
 
 
 ![](https://cloud-b6wbmz67u-hack-club-bot.vercel.app/0image.png)
+
+![}(https://cloud-cmyml1u9p-hack-club-bot.vercel.app/0image.png) 
