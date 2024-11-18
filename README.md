@@ -8,4 +8,4 @@ Ticketer is a discord both with a simple ticket system. It includes the commands
 Courted is a court case bot for discord with systems to sue people, assign judges and lawyers to cases, have other court cases, and close a court case.
 
 
-1[](https://cloud-b6wbmz67u-hack-club-bot.vercel.app/0image.png)
+! [](https://cloud-b6wbmz67u-hack-club-bot.vercel.app/0image.png)
