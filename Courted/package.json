@@ -1,0 +1,16 @@
+{
+  "name": "courted",
+  "version": "1.0.0",
+  "description": "A Discord bot to simulate court cases, made by QuizzityMC",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {},
+  "author": "QuizzityMC",
+  "license": "MIT"
+}
